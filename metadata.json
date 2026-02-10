@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Keuangan & Kas HIMAHI UB 2026",
+  "description": "Platform terintegrasi untuk pengelolaan dana hibah organisasi dan pengumpulan bukti pembayaran kas mahasiswa Hubungan Internasional Universitas Brawijaya 2026.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
